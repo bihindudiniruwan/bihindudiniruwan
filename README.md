@@ -8,16 +8,16 @@
 - 🌱 **I’m currently learning C++, with an interest in performance-oriented and low-level programming.**
 
 - 🎓 **I successfully completed my Final Year Project: Arduino Smart Door Lock, which involved designing and implementing a smart access control system.**
-- Technologies Used:
--   C++ and C for embedded and system logic
--   Arduino for hardware interfacing
--   Web Development (HTML, CSS, JavaScript) for the user interface
+  - Technologies Used:
+    -   C++ and C for embedded and system logic
+    -   Arduino for hardware interfacing
+    -   Web Development (HTML, CSS, JavaScript) for the user interface
 
 - 💼 **I previously worked on web, mobile, and database-driven applications, using:**
--   HTML, CSS, and JavaScript
--   React for frontend development
--   MySQL for database management
--   Mobile application development
+  -   HTML, CSS, and JavaScript
+  -   React for frontend development
+  -   MySQL for database management
+  -   Mobile application development
 
 - 💬 **You can ask me about C, C++, Arduino, and basic web, mobile, and database development.**
   
