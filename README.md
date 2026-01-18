@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bihindu Diniruwan </h1>
 <h3 align="center">A Developer</h3>
 
-<h4>I hold a Bachelor’s degree in Software Engineering from Plymouth University, completed with a Second Class Upper Division.</h4>
+<h4  align="center">I hold a Bachelor’s degree in Software Engineering from Plymouth University, completed with a Second Class Upper Division.</h4>
 
 - 🔭 I’m currently working as a C++ Intern, focusing on system-level and backend development.**
 
@@ -9,15 +9,15 @@
 
 - 🎓 I successfully completed my Final Year Project: Arduino Smart Door Lock, which involved designing and implementing a smart access control system.**
 - Technologies Used:
-- C++ and C for embedded and system logic
-- Arduino for hardware interfacing
-- Web Development (HTML, CSS, JavaScript) for the user interface
+-   C++ and C for embedded and system logic
+-   Arduino for hardware interfacing
+-   Web Development (HTML, CSS, JavaScript) for the user interface
 
 - 💼 I previously worked on web, mobile, and database-driven applications, using:**
-- HTML, CSS, and JavaScript
-- React for frontend development
-- MySQL for database management
-- Mobile application development
+-   HTML, CSS, and JavaScript
+-   React for frontend development
+-   MySQL for database management
+-   Mobile application development
 
 - 💬 You can ask me about C, C++, Arduino, and basic web, mobile, and database development.**
   
