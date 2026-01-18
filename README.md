@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bihindu</h1>
+<h1 align="center">Hi 👋, I'm Bihindu Diniruwan </h1>
 <h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on **Arduino Smart Door Lock**
+<h4>I hold a Bachelor’s degree in Software Engineering from Plymouth University, completed with a Second Class Upper Division.</h4>
 
-- 🌱 I’m currently learning **Arduino**
+- 🔭 I’m currently working as a C++ Intern, focusing on system-level and backend development.**
 
-- 💬 Ask me about **HTML,CSS ,JS**
+- 🌱 I’m currently learning C++, with an interest in performance-oriented and low-level programming.**
 
+- 🎓 I successfully completed my Final Year Project: Arduino Smart Door Lock, which involved designing and implementing a smart access control system.**
+- Technologies Used:
+- C++ and C for embedded and system logic
+- Arduino for hardware interfacing
+- Web Development (HTML, CSS, JavaScript) for the user interface
+
+- 💼 I previously worked on web, mobile, and database-driven applications, using:**
+- HTML, CSS, and JavaScript
+- React for frontend development
+- MySQL for database management
+- Mobile application development
+
+- 💬 You can ask me about C, C++, Arduino, and basic web, mobile, and database development.**
+  
 - 📫 How to reach me **bihindudiniruwan.112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
