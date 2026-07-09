@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bihindu Diniruwan</h1>
-<h3 align="center">Software Engineering Graduate |Software Developer</h3>
+<h3 align="center">Software Engineering Graduate | Software Developer</h3>
 
 <h4 align="center">
 🎓 BSc (Hons) Software Engineering Graduate passionate about backend development, system programming, and building reliable software solutions.
