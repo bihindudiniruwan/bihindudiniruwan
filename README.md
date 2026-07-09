@@ -1,28 +1,50 @@
-<h1 align="center">Hi 👋, I'm Bihindu Diniruwan </h1>
-<h3 align="center">A Developer</h3>
+<h1 align="center">Hi 👋, I'm Bihindu Diniruwan</h1>
+<h3 align="center">Software Engineering Graduate | Backend & C++ Developer</h3>
 
-<h4  align="center">I hold a Bachelor’s degree in Software Engineering from Plymouth University, completed with a Second Class Upper Division.</h4>
+<h4 align="center">
+🎓 BSc (Hons) Software Engineering Graduate passionate about backend development, system programming, and building reliable software solutions.
+</h4>
 
-- 🔭 **I’m currently working as a C++ Intern, focusing on system-level and backend development.**
+- 🔭 **Recently completed my Software Engineer Internship (C++ Developer)**, where I worked on:
+  - Developing and maintaining software using **C++** and **Python**
+  - Working in a **Linux** development environment
+  - Understanding and contributing to **trading system** modules
+  - Debugging and troubleshooting complex applications
+  - Preparing and maintaining **technical documentation**
+  - Collaborating with development teams using **Git** and **GitLab**
 
-- 🌱 **I’m currently learning C++, with an interest in performance-oriented and low-level programming.**
+- 🌱 **Currently expanding my knowledge in:**
+  - Modern C++
+  - Python
+  - Backend Development
+  - System Design
+  - Software Architecture
 
-- 🎓 **I successfully completed my Final Year Project: Arduino Smart Door Lock, which involved designing and implementing a smart access control system.**
-  - Technologies Used:
-    -   C++ and C for embedded and system logic
-    -   Arduino for hardware interfacing
-    -   Web Development (HTML, CSS, JavaScript) for the user interface
+- 🎓 **Final Year Project: IoT Smart Door Lock System**
+  - Designed and developed an IoT-based smart door lock with remote monitoring and control.
+  - **Technologies Used:**
+    - C & C++
+    - Arduino
+    - HTML, CSS & JavaScript
+    - IoT Technologies
 
-- 💼 **I previously worked on web, mobile, and database-driven applications, using:**
-  -   HTML, CSS, and JavaScript
-  -   React for frontend development
-  -   MySQL for database management
-  -   Mobile application development
+- 💼 **Other Project Experience:**
+  - Web Development using **HTML, CSS, JavaScript & React**
+  - Database Design using **MySQL**
+  - Mobile Application Development
+  - REST API Integration
 
-- 💬 **You can ask me about C, C++, Arduino, and basic web, mobile, and database development.**
-  
-- 📫 How to reach me **bihindudiniruwan.112@gmail.com**
+- 💬 **Ask me about:**
+  - C
+  - C++
+  - Python
+  - Linux
+  - Backend Development
+  - Arduino 
+  - Web Development
+  - MySQL
 
+- 📫 **How to reach me:** **bihindudiniruwan.112@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bihindu-diniruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bihindu-diniruwan" height="30" width="40" /></a>
